@@ -10,7 +10,7 @@
     "body-parser": "~1.15.2",
     "cookie-parser": "~1.4.3",
     "csv-parse": "^1.1.7",
-    "debug": "~2.2.0",
+    "debug": "~2.6.9",
     "ejs": "^2.7.1",
     "express": "~4.14.0",
     "jade": "~1.11.0",
