@@ -14,7 +14,7 @@
     "ejs": "^2.7.1",
     "express": "~4.14.0",
     "jade": "~1.11.0",
-    "morgan": "~1.7.0",
+    "morgan": "~1.9.1",
     "multiparty": "^4.1.2",
     "serve-favicon": "~2.3.0",
     "tableify": "^1.0.0"
